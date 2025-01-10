@@ -110,6 +110,13 @@ aside {
 
 #more {
 
+  margin-top: 32px;
+
+  h3 {
+    margin-top: 8px;
+    font-size: 14px;
+  }
+
   img {
     width: 72px;
     aspect-ratio: 1/1;
